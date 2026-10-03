@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Clasica",
+        "precio": 4.5,
+        "categoria": "Platos fuertes"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza Margarita",
+        "precio": 8.0,
+        "categoria": "Platos fuertes"
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Limonada Natural",
+        "precio": 1.75,
+        "categoria": "Bebidas"
+    }
+]
